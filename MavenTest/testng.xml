@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="JUnit.SubtractTest3"/>
+      <class name="JUnit.SubtractTest2"/>
+      <class name="JUnit.SubtractTest1"/>
+      <class name="JUnit.AddTest1Test"/>
+      <class name="JUnit.MultiplyTest2"/>
+      <class name="JUnit.MultiplyTest3"/>
+      <class name="JUnit.MyMathTestTest"/>
+      <class name="JUnit.MultiplyTest1"/>
+      <class name="JUnit.AddTest1"/>
+      <class name="JUnit.AddTest2"/>
+      <class name="JUnit.DivideTest"/>
+      <class name="JUnit.AddTest3"/>
+      <class name="JUnit.MultiplyTest4"/>
+      <class name="JUnit.AddTest4"/>
+      <class name="JUnit.DivideTest3"/>
+      <class name="JUnit.DivideTest4"/>
+      <class name="JUnit.DivideTest1"/>
+      <class name="JUnit.DivideTest2"/>
+      <class name="JUnit.AddTestTest"/>
+      <class name="JUnit.SubtractTest4"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
